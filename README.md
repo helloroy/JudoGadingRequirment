@@ -1,4 +1,4 @@
-# Judo Gading Requirment
+# Judo Grading Requirement
 
 ### Yellow 5th Kyu
 | Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Pronounce &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Demo Video |
