@@ -3,7 +3,8 @@
 ### Yellow 5th Kyu
 | Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Pronounce &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Demo Video |
 | - | - | - |
-| 浮腰 | Uki goshi | [<img src="https://i3.ytimg.com/vi/c-A_nP7mKAc/maxresdefault.jpg" height="150" />](https://www.youtube.com/watch?v=c-A_nP7mKAc&t=6s) |
+| 大外刈 | Osoto gari | [<img src="https://i3.ytimg.com/vi/c-A_nP7mKAc/maxresdefault.jpg" height="150" />](https://www.youtube.com/watch?v=c-A_nP7mKAc&t=6s) |
+| 浮腰 | Uki goshi | [<img src="https://i3.ytimg.com/vi/bPKwtB4lyOQ/maxresdefault.jpg" height="150" />](https://www.youtube.com/watch?v=bPKwtB4lyOQ&t=6s) |
 | 体落 | Tai otoshi | [<img src="https://i3.ytimg.com/vi/4x6S3Q-Ktv8/maxresdefault.jpg" height="150" />](https://www.youtube.com/watch?v=4x6S3Q-Ktv8&t=6s) |
 | 胸固 | Mune gatame | [<img src="https://i3.ytimg.com/vi/lIt5vywPBF0/maxresdefault.jpg" height="150" />](https://www.youtube.com/watch?v=lIt5vywPBF0&t=2s) |
 | 袈裟固 | Kesa gatame | [<img src="https://i3.ytimg.com/vi/NDaQuJOFBYk/maxresdefault.jpg" height="150" />](https://www.youtube.com/watch?v=NDaQuJOFBYk&t=6s) |
